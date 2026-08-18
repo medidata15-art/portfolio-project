@@ -1,2 +1,22 @@
+/* Reset */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  color: #333;
+}
+
+/* Center headers */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Skills list */
+ul {
+  padding-left: 20px;
+  list-style: square;
+}
 
 

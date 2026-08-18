@@ -50,7 +50,11 @@ section {
 }
 
 h2 {
-    color: #4a6fa5;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 28px;
+}
+
 }
 
 /* Skills list */
